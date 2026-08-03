@@ -2,20 +2,17 @@
 #top{
   width:800px;
   background-color:#dcc9f4;
-  text-align:center;
+  text-align:center; 
+  margin: 20px auto;
 }
-
-.p{    
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-left: auto;
-  margin-right: auto;
-}
+  
 
 .top-child{
   display:inline-block;
   width: 20%;
   background-color: #ffd9df;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 #middle{
