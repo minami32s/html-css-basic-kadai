@@ -18,10 +18,9 @@
 #middle{
   width:800px;
   height:800px;
-  padding-top: 20px;
-  padding-bottom: 20px;
   background-color:#ffd9df;
   position: relative;
+  margin: 0 auto;
 }
 
 #middle-child01,#middle-child02,
