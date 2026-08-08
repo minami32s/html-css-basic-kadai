@@ -54,13 +54,21 @@ h2::before{
     color: rgb(239, 111, 139);
 }
 
-p:nth-child(3):first-letter{
+.contents p:nth-child(3):first-letter{
     font-weight: bold;
     color: rgb(97, 206, 249);
 }
 footer{
     background-color:rgb(244, 79, 79);
     text-align:center;
+}
+
+footer a:visited {
+  color: white;
+}
+
+footer a:hover {
+  color: red;
 }
 
 @media screen and (max-width: 768px){
